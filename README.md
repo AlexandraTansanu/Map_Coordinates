@@ -1,5 +1,5 @@
 # Map Coordinates
-The map coordinates and graphs repositories operate on .CSV files. This reposiroty contains two exercises, one reading values from and one writing values into a .CSV file. For the sake of these exercises, the values written in the coordinates.CSV beforehand are split into two columns and repersent the X- and Y-Coordinates of geographical points, also reffered to as waypoints. 
+The map coordinates and graph representations repositories operate on .CSV files. This reposiroty contains two exercises, one reading values from and one writing values into a .CSV file. For the sake of these exercises, the values written in the coordinates.CSV beforehand are split into two columns and repersent the X- and Y-Coordinates of geographical points, also reffered to as waypoints. 
 
 **Difficulty level:** Beginner. 
 
